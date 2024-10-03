@@ -1,6 +1,6 @@
 PROJECT RUN : 
-        FRONTEND : npm run dev
-        BACKEND : npm run dev
+        frontend : npm run dev
+        backend : npm run dev
 
 *FRONTEND :
         . USER AUTHENTICATION
