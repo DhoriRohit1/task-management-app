@@ -1,8 +1,8 @@
-PROJECT RUN : 
+project run : 
         frontend : npm run dev
         backend : npm run dev
 
-*FRONTEND :
+FRONTEND :
         . USER AUTHENTICATION
         . TASK MANAGEMENT UI
         . ROLE-BASED ACCESS
@@ -11,7 +11,7 @@ PROJECT RUN :
         . NOTIFICATION
         . VALIDATION
 
-*BACKEND :
+BACKEND :
         . USER AUTHENTICATION & ROLE MANAGEMENT
         . TASK MANAGEMENT API
         . ROLE-BASED AUTHENTICATION
